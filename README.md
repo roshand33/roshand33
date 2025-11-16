@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Roshan Dobe</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Docker | CI/CD | Linux</h3>
+<h3 align="center">Cloud & DevOps Engineer | AWS | Docker | CI/CD | Linux | K8S |</h3>
 
 ---
 
