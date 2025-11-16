@@ -11,7 +11,7 @@ problem-solving, and delivering secure & automated solutions.
 ---
 
 ### 💼 Experience
-- **DevOps Intern — CloudBlitz Technology** *(Jan 2025 - Present)*
+- **DevOps Intern — CloudBlitz Technology** *(July 2025 - Present)*
   - Managed cloud resources on AWS
   - Worked with GitHub Actions & Jenkins (Basic CI/CD Pipeline)
   - Docker containerization & basic Kubernetes orchestration
