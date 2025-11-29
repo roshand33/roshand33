@@ -1,65 +1,78 @@
-<h1 align="center">Hi 👋, I'm Roshan Dobe</h1>
-<h3 align="center">Cloud & DevOps Engineer | AWS | Docker | CI/CD | Linux | K8S |</h3>
+# 👋 Hi, I'm Roshan Dobe
+
+Cloud & DevOps Engineer focused on building scalable, automated, and reliable infrastructure.  
+I work with cloud platforms, CI/CD pipelines, containerization, and infrastructure automation.  
+Currently sharpening my skills through hands-on projects and a DevOps internship.
 
 ---
 
-### 🚀 Summary
-Cloud and DevOps Engineer skilled in designing, deploying, and managing scalable cloud infrastructure. 
-Hands-on experience with AWS services, CI/CD automation, and containerization. Passionate about learning, 
-problem-solving, and delivering secure & automated solutions.
+## 🚀 About Me
+- Cloud & DevOps Engineer with experience deploying and managing cloud infrastructure.
+- Strong in automation, CI/CD, containerization, and Linux systems.
+- Hands-on with AWS, GitHub Actions, Jenkins, Docker, and basic Kubernetes.
+- Passionate about problem-solving, clean workflows, and building practical tech solutions.
 
 ---
 
-### 💼 Experience
-- **DevOps Intern — CloudBlitz Technology** *(July 2025 - Present)*
-  - Managed cloud resources on AWS
-  - Worked with GitHub Actions & Jenkins (Basic CI/CD Pipeline)
-  - Docker containerization & basic Kubernetes orchestration
-  - Deployment automation and application monitoring
-  - Strong collaboration & communication with engineering teams
+## 🔧 Tech Stack
+
+### **Cloud**
+- AWS (EC2, S3, IAM, VPC, Lambda basics)
+
+### **DevOps & Automation**
+- Git, GitHub  
+- GitHub Actions  
+- Jenkins (basic pipelines)  
+- Docker  
+- Kubernetes (basics)  
+- Linux (Ubuntu)
+
+### **Programming**
+- Python  
+- Java  
+- Bash
 
 ---
 
-### 🛠️ Skills
+## 📌 Projects
 
-| Category | Tools |
-|--------|--------|
-| Cloud | AWS |
-| Programming | Python, Java, Bash |
-| DevOps & Infra | Git, GitHub, Docker, Jenkins (Basic), Linux (Ubuntu) |
-| Concepts | CI/CD, Containerization, Monitoring, Automation |
+### **🔐 Cloud-enabled Biometric Door Lock System**
+A secure door access system integrating:
+- Biometric authentication  
+- Cloud-based mobile control  
+- NodeMCU + Firebase + Android App  
+Paper published in IRJMETS.
 
----
-
-### 🔬 Projects
-
-- **Cloud-enabled Biometric Door Lock System**
-  - Mobile-controlled secure door access with biometric authentication  
-  - Tech: NodeMCU, Firebase, Android App  
-  - *Published research paper in IRJMETS* 📄
-  
-- **Automatic Plant Watering System**
-  - IoT moisture monitoring with automated motor control  
-  - Tech: NodeMCU8266, Sensors
-
-> 📌 Upcoming: Adding project repositories soon!
+### **🌱 Automatic Plant Watering System**
+IoT setup using NodeMCU8266 to:
+- Monitor soil moisture  
+- Automate watering  
+- Reduce manual intervention
 
 ---
 
-### 🎓 Education
-- **BE Electronics & Telecommunication** — SSGMCE Shegaon (2022–2025) — CGPA: 6.67/10  
-- **Diploma in E&TC** — Govt. Polytechnic Amravati — 83%  
-- **10th** — The New Era High School — 81.20%
+## 🎓 Education
+- **Bachelor’s Degree (2022–2025)** – SSGMCE Shegaon — *CGPA: 6.67/10*  
+- **Diploma (2022)** – Government Polytechnic Amravati — *83%*  
+- **Class 10th (2019)** – The New Era High School — *81.20%*
 
 ---
 
-### 🔗 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/roshan-d-372a57275)
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/roshand33)
-📧 Email: **roshandobe45@gmail.com**  
-📱 Phone: **+91 9763640779**
+## 📝 Publication
+**“Research on Cloud-Enabled Biometric Door Access System”**  
+Published in IRJMETS.
 
 ---
 
-⭐️ *If you like my work, feel free to star my repositories!*
+## 📫 Contact
+- Email: **roshandobe45@gmail.com**  
+- Phone: **+91 9763640779**  
+- GitHub: **github.com/Roshand33**
+
+---
+
+## ⚡ Current Focus
+- Improving CI/CD automation  
+- Strengthening Kubernetes and Terraform skills  
+- Building industry-ready DevOps projects
+
