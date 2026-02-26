@@ -141,13 +141,8 @@ Published in **IRJMETS**
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshand33&layout=compact&theme=tokyonight" />
-</p>
+![GitHub followers](https://img.shields.io/github/followers/Roshand33?style=social)
+![GitHub stars](https://img.shields.io/github/stars/Roshand33?style=social)
 
 ---
 
