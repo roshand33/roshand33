@@ -132,7 +132,7 @@ Published in **IRJMETS**
 
 ## 📫 Contact
 
-- 📧 Email: roshandobe45@gmail.com  
+- 📧 Email: roshandobe@outlook.com  
 - 📱 Phone: +91 9763640779  
 - 💻 GitHub: https://github.com/Roshand33  
 - 🌐 Portfolio: https://roshan-dobe.netlify.app  
