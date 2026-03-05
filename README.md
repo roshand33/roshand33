@@ -143,7 +143,13 @@ Published in **IRJMETS**
 
 ![GitHub followers](https://img.shields.io/github/followers/Roshand33?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Roshand33?style=social)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshand33&theme=tokyonight" />
+</p>
 ---
 
 ## ⚡ Current Focus
