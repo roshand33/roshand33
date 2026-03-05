@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/XXXXXXX/banner.png" alt="Roshan Dobe | Cloud & DevOps Engineer" />
+  <img src="https://raw.githubusercontent.com/Roshand33/Roshand33/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Roshan Dobe</h1>
