@@ -146,17 +146,17 @@ Published in **IRJMETS**
 ## 📊 GitHub Stats
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-<img src="https://streak-stats.demolab.com?user=Roshand33&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=roshand33&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+<img src="https://streak-stats.demolab.com?user=roshand33&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshand33&layout=compact&theme=tokyonight&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roshand33&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://img.shields.io/github/followers/Roshand33?style=social"/>
-<img src="https://img.shields.io/github/stars/Roshand33?style=social"/>
+<img src="https://img.shields.io/github/followers/roshand33?style=social"/>
+<img src="https://img.shields.io/github/stars/roshand33?style=social"/>
 </p>
 
 ## ⚡ Current Focus
