@@ -143,18 +143,26 @@ Published in **IRJMETS**
 - 🌐 Portfolio: https://roshan-dobe.netlify.app  
 
 ---
-
 ## 📊 GitHub Stats
 
-![GitHub followers](https://img.shields.io/github/followers/Roshand33?style=social)
-![GitHub stars](https://img.shields.io/github/stars/Roshand33?style=social)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight&hide_border=true" />
+
+<img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight&hide_border=true" height="165">
+
+<img src="https://streak-stats.demolab.com?user=Roshand33&theme=tokyonight&hide_border=true" height="165">
+
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=Roshand33&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Roshand33&layout=compact&theme=tokyonight&hide_border=true">
 </p>
+
+<p align="center">
+
+![Followers](https://img.shields.io/github/followers/Roshand33?style=social)
+![Stars](https://img.shields.io/github/stars/Roshand33?style=social)
+
+</p>>
 
 ## ⚡ Current Focus
 
