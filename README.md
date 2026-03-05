@@ -1,6 +1,6 @@
 <!-- ===================== BANNER ===================== -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Roshand33/Roshand33/main/banner.png" />
+  <img src="https://raw.githubusercontent.com/roshand33/roshand33/main/banner.png" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Roshan Dobe</h1>
