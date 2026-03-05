@@ -70,6 +70,11 @@ I enjoy automating infrastructure, improving deployment pipelines, and working w
 - Prometheus, Grafana, Datadog (introductory)
 
 ---
+## ⚙️ DevOps Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,azure,docker,kubernetes,terraform,jenkins,github,linux,python,bash" />
+</p>
 
 ## 📌 Projects
 
@@ -144,13 +149,12 @@ Published in **IRJMETS**
 ![GitHub followers](https://img.shields.io/github/followers/Roshand33?style=social)
 ![GitHub stars](https://img.shields.io/github/stars/Roshand33?style=social)
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Roshand33&show_icons=true&theme=tokyonight&hide_border=true" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Roshand33&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=Roshand33&theme=tokyonight&hide_border=true" />
 </p>
----
 
 ## ⚡ Current Focus
 
